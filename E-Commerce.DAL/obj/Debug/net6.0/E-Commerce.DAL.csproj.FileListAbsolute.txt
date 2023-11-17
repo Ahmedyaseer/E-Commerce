@@ -1,0 +1,14 @@
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\bin\Debug\net6.0\E-Commerce.DAL.deps.json
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\bin\Debug\net6.0\E-Commerce.DAL.runtimeconfig.json
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\bin\Debug\net6.0\E-Commerce.DAL.dll
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\bin\Debug\net6.0\E-Commerce.DAL.pdb
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\E-Commerce.DAL.csproj.AssemblyReference.cache
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\E-Commerce.DAL.AssemblyInfoInputs.cache
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\E-Commerce.DAL.AssemblyInfo.cs
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\E-Commerce.DAL.dll
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\refint\E-Commerce.DAL.dll
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\E-Commerce.DAL.pdb
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\E-Commerce.DAL.genruntimeconfig.cache
+E:\Own E-Commerce\Project\E-Commerce.Api\E-Commerce.DAL\obj\Debug\net6.0\ref\E-Commerce.DAL.dll
